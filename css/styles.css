@@ -681,10 +681,6 @@ body {
   fill: transparent;
 }
 .check-icon {
-  width: 16px;
-  height: 16px;
-  border: 1.25px solid var(--main-color);
-  border-radius: 2px;
 }
 
 .modal-check:checked + .check-text span {
